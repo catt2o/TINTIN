@@ -10,5 +10,6 @@ This is a simple Java program.
 4. Open the terminal and run:
    
 javac MysteriousCave.java
+
 java MysteriousCave
 
